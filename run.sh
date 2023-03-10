@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "Please modify this file to compile and run your program"
-
+python3 puzzle2.py $1 $2
